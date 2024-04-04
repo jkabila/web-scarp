@@ -1,4 +1,4 @@
-Amazon product detail:
+#Amazon product detail:
                  Here is a basic outline of scaping Amazon produt details:
 
                  
