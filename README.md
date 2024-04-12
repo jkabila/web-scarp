@@ -1,8 +1,8 @@
 **Amazon product detail**:
-                 Here is a basic outline of scaping Amazon produt details:
+                 Here is a basic outline of scaping Amazon product details:
 
                  
-                 1. Selecting a Tool:Choose a web scarping tool like BeautifulSoup,Pandas etc..
+                 1. Selecting a Tool:Choose a web scarping tool like BeautifulSoup,Pandas etc..as required 
 
                  
                  2. Identify the target Url:determine the urls of the product pages you wated to scarp.
